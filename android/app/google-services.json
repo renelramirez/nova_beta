@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "40979642695",
+    "project_id": "berries-project-nova-beta",
+    "storage_bucket": "berries-project-nova-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40979642695:android:2d5a0169c863ad7a193462",
+        "android_client_info": {
+          "package_name": "com.example.emart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40979642695-clqh48bvt52n9lh6qb2dpsp0c5o3gm9q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emart_app",
+            "certificate_hash": "9063bf449a34730323ca73f98d3cb4a2f82ad32f"
+          }
+        },
+        {
+          "client_id": "40979642695-4vt167ojgf5ubc9r02kulc04ov5r8krc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS1IN4alh4NID1bbvEwb-96C_p23CJVJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40979642695-4vt167ojgf5ubc9r02kulc04ov5r8krc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

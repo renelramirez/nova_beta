@@ -1,0 +1,57 @@
+const appname = "Nova";
+const appversion = "Beta 0.01.004";
+const credits = "The Berries Project";
+const email = "Email";
+const emailHint = "example@example.com";
+const password = "password";
+const passwordHint = "******";
+const retypePassword = "Retype Password";
+const retypePassHint = "******";
+const name = "Name";
+const nameHint = "Name";
+const forgetpass = "Forgot Password?";
+const login = "Log in";
+const signup = "Sign up";
+const createNewAccount = "or, create a new account";
+const loginWith = "Log in with";
+const privacyPolicy = "Privacy Policy";
+const termAndCond = "Terms and conditions";
+const alreadyHaveAccount = "Already have an account? ";
+const allproducts = "All Products";
+const home = "Home",
+    categories = "Categories List",
+    cart = "Cart",
+    account = "Account";
+const searchHint = "Search product...",
+    todayDeal = "Today's Deal",
+    flashsale = "Flash Sale",
+    brand = "Brand",
+    topSellers = "Top Selers",
+    topCategory = "Top Categories",
+    womenDress = "Women's Dress",
+    girlsWatches = "Girls Watches",
+    mobilePhone = "Mobile Phone",
+    boysGlasses = "Boys Glasses",
+    tShirts = "Tshirts",
+    girlsDress = "Girls Dresses",
+    featureProduct = "Feature Product",
+    featuredCategories = "Featured Categories";
+
+const womenCloth = "Women's Clothes",
+    compAccess = "Women's Accessories",
+    menCloth = "Men's Clothes",
+    automobile = "Men's Accessories",
+    kidtoys = "Sports",
+    jewelery = "Boy's Fashion",
+    cellphone = "Girl's Fashion";
+const video = "Video",
+    reviews = "Reviews",
+    sellerPolicy = "Seller Policy",
+    returnPolicy = "Return Policy",
+    supportPolicy = "Support Policy",
+    productyoulike = "Products you may like";
+const wishlist = "MY wishlist", orders = "my Orders", messages = "Messages";
+const loggedin = "Logged in Successfully",
+    loggedout = "Logged out Successfully";
+const oldpass = "Old password", newpass = "New password";
+const paypal = "Paypal", stripe = "Stripe", cod = "Cash on delivery";

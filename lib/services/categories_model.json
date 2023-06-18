@@ -1,0 +1,85 @@
+{
+    "categories": [
+        {
+            "name": "Women's Clothes",
+            "subcategory": [
+                "Dresses",
+                "Tops",
+                "Skirts",
+                "Jeans",
+                "Lingerie",
+                "Undies",
+                "Sleepwear",
+                "others"               
+            ]
+        },
+        
+        {
+            "name": "Women's Accessories",
+            "subcategory": [
+                "Handbags",
+                "Heels",
+                "slippers",
+                "Shoes",
+                "Jewelleries"
+                
+            ]
+        },
+        {
+            "name": "Men's Clothes",
+            "subcategory": [
+                "Suits",
+                "Shirts",
+                "T-Shirts",
+                "Jeans",
+                "Trousers",
+                "Hoddies",
+                "Sweaters",
+                "Vest",
+                "Undies"
+                
+            ]
+        },
+        {
+            "name": "Men's Accessories",
+            "subcategory": [
+                "Bags & wallet",
+                "belts & Watches",
+                "Shoes",
+                "Flip-flops",
+                "Sneakers"
+                
+            ]
+        },{
+            "name": "Sports",
+            "subcategory": [
+                "Jerseys",
+                "Sneakers",
+                "Leggings",
+                "Active wares"
+
+                
+            ]
+        },
+        {
+            "name": "Boy's Fashion",
+            "subcategory": [
+                "Shirts",
+                "Jeans",
+                "Shorts",
+                "Outfits"
+                
+            ]
+        },
+        {
+            "name": "Girl's Fashion",
+            "subcategory": [
+                "Dresses",
+                "Tops",
+                "Skirts",
+                "Outfits"
+                
+            ]
+        }
+    ]
+}
